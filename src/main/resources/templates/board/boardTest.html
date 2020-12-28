@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+
+
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <style type="text/css">
+        #s_left{
+            width: 24%;
+            height: 700px;
+            background-color: yellow;
+            float: left;
+            margin: 5px;
+        }
+        #contents{
+            width: 40%;
+            height: 700px;
+            background-color: green;
+            float: left;
+            margin: 5px;
+        }
+        #s_right{
+            width: 24%;
+            height: 700px;
+            background-color: red;
+            float: left;
+            margin: 5px;
+        }
+        @media screen and (max-width: 800px) {
+            body{
+                background-color: gray;
+            }
+        }
+    </style>
+</head>
+<body>
+<div id="s_left">왼쪽 사이드바</div>
+<div id="contents">컨텐츠</div>
+<div id="s_right">오른쪽 사이드바</div>
+//*[@id="cont"]/div[2]/p[6]
+</body>
+</html>

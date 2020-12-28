@@ -1,0 +1,10 @@
+board
+board.aop
+board.board.controller
+board.board.dto
+board.board.entity
+board.board.repository
+board.board.service
+board.common
+board.configuration
+board.interceptor

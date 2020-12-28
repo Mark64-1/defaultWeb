@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"board"},{"l":"board.aop"},{"l":"board.board.controller"},{"l":"board.board.dto"},{"l":"board.board.entity"},{"l":"board.board.repository"},{"l":"board.board.service"},{"l":"board.common"},{"l":"board.configuration"},{"l":"board.interceptor"}]
